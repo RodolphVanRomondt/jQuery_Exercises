@@ -1,0 +1,19 @@
+
+.hide {
+    display: none;
+}
+
+th {
+    margin: 0px;
+    padding: 3px;
+    width: 100px;
+    text-align: left;
+    border: solid 3px black;
+}
+
+table td {
+    width: 100px;
+    max-width: 500px;
+    padding: 0px 5px 0px 5px;
+    border: solid 3px lightgrey;
+}
